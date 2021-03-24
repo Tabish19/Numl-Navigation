@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/Home"
+    android:icon="@drawable/ic_home"
+    android:title="Home"/>
+
+    <item
+        android:id="@+id/Map"
+        android:icon="@drawable/ic_baseline_map"
+        android:title="Map"/>
+    <item
+        android:id="@+id/Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"/>
+    <item
+        android:id="@+id/Route"
+        android:icon="@drawable/ic_route"
+        android:title="Route"/>
+</menu>
